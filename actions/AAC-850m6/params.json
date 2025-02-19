@@ -1,0 +1,31 @@
+{
+    "category": "plugins",
+    "display": "Download txt2file",
+    "fields": {
+        "AAD": {
+            "caption": "Content",
+            "doc": "The text content to be included in the file.",
+            "editor": "DynamicValue",
+            "name": "content",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "File Name",
+            "doc": "The name of the file (without the extension).",
+            "editor": "DynamicValue",
+            "name": "filename",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "File Extension",
+            "doc": "The file extension (e.g., txt, csv, json, ics).",
+            "editor": "DynamicValue",
+            "name": "extension",
+            "rank": 2,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}

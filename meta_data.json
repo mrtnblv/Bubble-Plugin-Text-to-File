@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "data (things)",
+        "3": "calendar",
+        "4": "analytics"
+    },
+    "description": "Just provide the text content, a file name, and an extension, the action plugin will create and download the file automatically.\n\nPerfect for exporting logs, structured data, or custom text files!",
+    "image": "//meta-q.cdn.bubble.io/f1739976663171x999416027989276500/image.png",
+    "license": "open_source",
+    "name": "Text to File"
+}
